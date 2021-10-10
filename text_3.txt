@@ -1,0 +1,9 @@
+White 20200
+Black 23000
+Pink 19000
+Brown 34000
+Yellow 15000
+Green 22200
+Gold 134000
+Blue 12000
+Orange 13300
